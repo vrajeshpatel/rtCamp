@@ -3,7 +3,7 @@
 It is a web application where user can log in via facebook account and see their facebook ablum in organized way. This application also provide functionality to download the album in different way. User can download single album, multple album or all the album in '.zip' format. 
 
 ### Live Url : www.vrajesh.xyz
-note: currently only user with tester or devloper permission can use the application.
+note: currently only user with tester or devloper permission can use the application. For review please send your facebook id to vrajeshiam@gmail.com
 
 
 
